@@ -1,0 +1,11 @@
+main: "dev.derpynewbie.mc.soulbounditems.SoulboundItemsPlugin"
+name: "DerpySoulboundItems"
+version: ${project.version}-${buildNumber}
+author: "DerpyNewbie"
+website: "https://github.com/derpynewbie/soulbound-items-plugin"
+description: "Adds soulbound items / API"
+api-version: "1.13"
+commands:
+  soulbound:
+    description: "Managing command for DerpySoulboundItems"
+    usage: "/<command> <args>"

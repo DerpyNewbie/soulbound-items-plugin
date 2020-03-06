@@ -1,0 +1,14 @@
+cfg:
+  return-dropped: true
+msg:
+  item:
+    illegal-move: "Thats illegal move!"
+    illegal-drop: "Thats illegal drop!"
+    illegal-drag: "Thats illegal drag!"
+    died: "Soulbound item has despawned!"
+  help:
+    index:
+    check:
+    set:
+    remove:
+    reload:
